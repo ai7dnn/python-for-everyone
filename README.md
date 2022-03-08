@@ -5,7 +5,6 @@
 - 누구나 배워야할 프로그래밍 언어이다. 
 - 배우기 쉽고 강력하다. 
 - 향후 빅데이터분석과 인공지능 분야에 반드시 필요하다.
-- 다른 언어를 배우기 보다 쉽다.
 
 ## [python-for-everyone](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791156006916&orderClick=LEa&Kc=)
 
