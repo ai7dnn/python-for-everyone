@@ -13,6 +13,8 @@
 
 ### 파이썬 개발환경
 - 표준 파이썬 (https://www.python.org)
+- 젯브래인 파이참 (https://www.jetbrains.com)
+- 비주얼스튜디오코드 (https://code.visualstudio.com)
 - 아나콘다 배포판 (https://www.anaconda.com/products/individual)
 - 구글 클라우드 개발환경 Colab (https://colab.research.google.com)
 
